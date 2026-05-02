@@ -1,0 +1,64 @@
+{
+  "commands": [
+    {
+      "name": "hoy",
+      "description": "Plan del día priorizado MMOOD",
+      "prompt": "Lee #file:00_CONTEXTO/estado_actual.md y el diario más reciente en #file:02_DIARIO/. Genera plan del día: tabla con TOP 3 acciones priorizadas (cashflow > SOMU > WALA), to-dos urgentes por proyecto, bloqueos activos."
+    },
+    {
+      "name": "cierre",
+      "description": "Procesa diario del día",
+      "prompt": "Lee el diario de hoy en #file:02_DIARIO/. Extrae: 1) decisiones tomadas 2) to-dos nuevos por proyecto 3) ideas para archivar 4) qué actualizar en estado_actual.md. Formato: secciones separadas listas para copiar y pegar."
+    },
+    {
+      "name": "aldeas",
+      "description": "Briefing Aldeas Infantiles",
+      "prompt": "Lee #file:01_PROYECTOS/AISOS/contexto.md y #file:01_PROYECTOS/AISOS/to-dos_activos.md. Dame: estado actual, próxima entrega con fecha, acción inmediata. Formato ejecutivo."
+    },
+    {
+      "name": "wala",
+      "description": "Briefing WALA completo",
+      "prompt": "Lee #file:01_PROYECTOS/WALA/contexto.md y #file:01_PROYECTOS/WALA/to-dos_activos.md. Dame: hipótesis activas, bloqueos, próximo paso comercial, estado municipalidad. Formato tabla."
+    },
+    {
+      "name": "tesis",
+      "description": "Estado tesis maestría",
+      "prompt": "Lee #file:01_PROYECTOS/TFM/to-dos_activos.md y #file:01_PROYECTOS/TFM/contexto.md. Qué está listo, qué falta, próxima entrega con fecha. Formato bullets."
+    },
+    {
+      "name": "somu",
+      "description": "Estado SOMU",
+      "prompt": "Lee #file:01_PROYECTOS/SOMU/contexto.md. Dame: estado actual, qué falta para reactivar, stakeholders clave pendientes. Formato ejecutivo."
+    },
+    {
+      "name": "contenido",
+      "description": "Plan de contenido redes",
+      "prompt": "Lee #file:01_PROYECTOS/CONTENIDO_REDES/to-dos_activos.md y #file:01_PROYECTOS/CONTENIDO_REDES/videos_grabados/. Videos pendientes de editar, próxima publicación, formato sugerido por plataforma."
+    },
+    {
+      "name": "ideas",
+      "description": "Patrones detectados en vault",
+      "prompt": "Lee los últimos 14 días de #file:02_DIARIO/. Detecta: ideas repetidas no ejecutadas, patrones entre proyectos, oportunidades no aprovechadas. Formato: tabla con idea / frecuencia / proyecto / acción sugerida."
+    },
+    {
+      "name": "drift",
+      "description": "Intenciones vs acciones 30 días",
+      "prompt": "Lee los últimos 30 días de #file:02_DIARIO/ y #file:00_CONTEXTO/estado_actual.md. Compara lo que se planeó vs lo que se ejecutó. Detecta qué se está evitando. Formato: tabla honesta sin filtro."
+    },
+    {
+      "name": "integrar",
+      "description": "Procesa output externo al vault",
+      "prompt": "Toma el contenido que te voy a pegar a continuación (viene de Perplexity/NotebookLM/ChatGPT/Claude). Identifica: proyecto al que pertenece, tipo (decisión/idea/to-do/recurso), archivo donde debe guardarse. Genera el .md listo para pegar."
+    },
+    {
+      "name": "generar-pdf",
+      "description": "Genera estructura PDF desde proyecto",
+      "prompt": "Lee todos los archivos .md del proyecto indicado. Genera estructura de PDF profesional con: portada, resumen ejecutivo, plan de acción, to-dos. Formato markdown listo para exportar."
+    },
+    {
+      "name": "nueva-nota",
+      "description": "Crea la nota diaria de hoy",
+      "prompt": "Crea un nuevo archivo en 02_DIARIO/ con el nombre de la fecha de hoy en formato YYYY-MM-DD.md. Usa exactamente la plantilla en #file:04_RECURSOS/plantillas/diario_template.md. En la sección TOP 3 acciones, lee #file:00_CONTEXTO/estado_actual.md y precarga las 3 prioridades más urgentes. Confirma el nombre del archivo creado."
+    }
+  ]
+}

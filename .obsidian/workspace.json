@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "608d4a99be58a309",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb11c4a7fdc8ec90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ac7d73c21015d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_PROYECTOS/WALA/00_ESTRATEGIAS/plan_comercial_wala_mayo2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plan_comercial_wala_mayo2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ea6f721646f8e4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7663892766ecc27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e9119b217443d2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "5b57e833d6db39b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3981be0ab4a20ba5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5aadf652f569ec87",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ed6ccdd3ab71540",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6560338f6dc70967",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Transcripción de Youtube.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Transcripción de Youtube"
+            }
+          },
+          {
+            "id": "39867eb440d47e44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "b2d0a4c7d109999a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "9bd9379c079aa018",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "71be5de7b042e9b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_PROYECTOS/WALA/00_ESTRATEGIAS/plan_comercial_wala_mayo2026.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de plan_comercial_wala_mayo2026"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 564.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "3ac7d73c21015d96",
+  "lastOpenFiles": [
+    "02_DIARIO/2026-05-01.md",
+    "02_DIARIO/2026-05-01 (conflict 2026-05-01-23-41-12).md",
+    "01_PROYECTOS/WALA/contexto.md",
+    "01_PROYECTOS/WALA/04_MUNI_JLO/desktop.ini",
+    "01_PROYECTOS/CONTENIDO_REDES/to-dos_activos.md",
+    "01_PROYECTOS/SOMU/contexto.md",
+    "04_RECURSOS/plantillas/reunion_template.md",
+    "2026-05-01.md",
+    "01_PROYECTOS/AISOS/recursos_drive/resumen_herramientas.md",
+    "01_PROYECTOS/WALA/contexto_WALA.md",
+    "01_PROYECTOS/AISOS/recursos_drive/DPR-F-XX - Herramienta 1 - Mapa de actores - EET.docx",
+    "01_PROYECTOS/AISOS/recursos_drive/HERRAMIENTAS/Anexos/Anexo 9 - Módulo de emprendimiento nivel II 2026/Guía de facilitador/20260114 AI-Emprendimiento-II-guia.pdf",
+    "01_PROYECTOS/AISOS/recursos_drive/HERRAMIENTAS/Anexos/Anexo 9 - Módulo de emprendimiento nivel II 2026/Diapositivas/Sesión 6_CONSTRUCCIÓN DE MARCA.pptx",
+    "01_PROYECTOS/AISOS/recursos_drive/HERRAMIENTAS/Anexos/Anexo 9 - Módulo de emprendimiento nivel II 2026/Diapositivas/Sesión 5_VENTAS Y FIDELIZACION CLIENTES.pptx",
+    "01_PROYECTOS/AISOS/recursos_drive/HERRAMIENTAS/Anexos/Anexo 9 - Módulo de emprendimiento nivel II 2026/Diapositivas/Sesión 4_MARKETING PARA EMPRENDEDORES.pptx",
+    "01_PROYECTOS/AISOS/recursos_drive/HERRAMIENTAS/Anexos/Anexo 9 - Módulo de emprendimiento nivel II 2026/Diapositivas/Sesión 3_FINANZAS PARA EMPRENDEDORES.pptx",
+    "01_PROYECTOS/AISOS/recursos_drive/HERRAMIENTAS/Anexos/Anexo 9 - Módulo de emprendimiento nivel II 2026/Diapositivas/Sesión 2_ACCESO A FINANCIAMIENTO.pptx",
+    "01_PROYECTOS/AISOS/recursos_drive/HERRAMIENTAS/Anexos/Anexo 9 - Módulo de emprendimiento nivel II 2026/Diapositivas/Sesión 1_ FORMALIZACION DEL EMPRENDIMIENTO.pptx",
+    "01_PROYECTOS/AISOS/recursos_drive/HERRAMIENTAS/Anexos/Anexo 9 - Módulo de emprendimiento nivel II 2026/Cuadernos de trabajo/20260114 AI-Emp-II-Cuaderno trabajo-6.pdf",
+    "01_PROYECTOS/AISOS/to-dos_activos.md",
+    "03_NOTEBOOK_LM/links_activos.md",
+    "01_PROYECTOS/WALA/00_ESTRATEGIAS/Revisión Ciclo 1 Con Joselyn.md",
+    "01_PROYECTOS/WALA/00_ESTRATEGIAS/plan_comercial_wala_mayo2026.md",
+    "01_PROYECTOS/WALA/00_CORE/metodo-wala-documento-tecnico.md",
+    "01_PROYECTOS/WALA/00_ESTRATEGIAS/metodo-wala-documento-tecnico.md",
+    "01_PROYECTOS/TFM/to-dos_activos.md",
+    "01_PROYECTOS/TFM/contexto.md",
+    "01_PROYECTOS/WALA/to-dos_activos.md",
+    "01_PROYECTOS/TATIANA_TFM/contexto.md",
+    "04_RECURSOS/plantillas/cierre_sesion_ia_template.md",
+    "04_RECURSOS/plantillas/recursos_drive_template.md",
+    "01_PROYECTOS/AISOS/contexto.md",
+    "01_PROYECTOS/AISOS/contexto_AISOS.md",
+    "04_RECURSOS/plantillas/ChatGPT Image Apr 30, 2026, 03_37_22 PM.png",
+    "04_RECURSOS/plantillas/diario_template.md",
+    "Método WALA Documento Técnico.md",
+    "01_PROYECTOS/WALA/02_MARKETING_Y_COMMS/narrativaB2B.md",
+    "Sin título.canvas"
+  ]
+}

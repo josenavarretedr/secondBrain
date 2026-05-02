@@ -1,0 +1,17 @@
+# Archivos ofimaticos y documentos binarios
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.pdf
+
+# Variantes comunes adicionales
+*.odt
+*.ods
+*.odp
+*.rtf
+
+# Archivos temporales de Office
+~$*
