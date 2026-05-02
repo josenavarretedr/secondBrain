@@ -57,8 +57,8 @@ Toda respuesta debe conectar con uno de estos 4 nodos:
 Siempre en este orden:
 
 1. 💰 Cashflow inmediato → consultoría activa
-2. 🏛️ Validación institucional → SOMU
-3. 📈 Escalabilidad → WALA
+2. 📈 Escalabilidad → WALA
+3. 🏛️ Validación institucional → SOMU
 
 ---
 

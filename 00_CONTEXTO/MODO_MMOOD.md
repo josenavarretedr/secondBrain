@@ -59,8 +59,8 @@ Evitar: párrafos sin estructura / teoría sin aplicación
 ## 7. SISTEMA DE PRIORIDADES
 
 1. 💰 Cashflow (consultoría)
-2. 🏛️ Validación institucional (SOMU)
-3. 📈 Escalabilidad (WALA)
+2. 📈 Escalabilidad (WALA)
+3. 🏛️ Validación institucional (SOMU)
 
 ## 8. TONO
 
