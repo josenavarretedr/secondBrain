@@ -10,26 +10,15 @@
 | -------- | ----------------------------------------------------------------------- | ------------ | ------ |
 | TFM      | Completar subcapítulo y verificar enlaces de referencias bibliográficas | Hoy 2 mayo   | [ ]    |
 | WALA     | Entregar informe breve sobre clases municipales para JLO y gerente      | Hoy 2 mayo   | [ ]    |
-| AISOS    | Llamar 20 beneficiarios y avanzar lista de seguimiento                  | 3 mayo       | [ ]    |
 
 ---
 
 ## 💰 CASHFLOW — Estado financiero operativo
 
-| Fuente              | Estado        | Ingreso estimado | Próxima acción                                                   |
-| ------------------- | ------------- | ---------------- | ---------------------------------------------------------------- |
-| Aldeas Infantiles   | Activo        | S/ [pendiente]   | Llamar beneficiarios y validar interés para facturar             |
-| WALA B2C            | En desarrollo | S/ [potencial]   | Entregar informe municipal y mover negociación al siguiente paso |
-| Consultoría puntual | Pausado       |                  | Mantener en vigilancia; reactivar solo con demanda clara         |
-
----
-
-## 🏛️ SOMU — Estado institucional
-
-- Estado: 🟡 STANDBY
-- Bloqueo actual: comité regional aún sin avance concreto
-- Acción cuando se reactive: preparar propuesta institucional desde NEWCOOP
-- Seguimiento: revisar correos/gestiones pendientes tras respuesta del comité
+| Fuente              | Estado  | Ingreso estimado | Próxima acción                                           |
+| ------------------- | ------- | ---------------- | -------------------------------------------------------- |
+| Aldeas Infantiles   | Activo  | S/ [pendiente]   | Llamar beneficiarios y validar interés para facturar     |
+| Consultoría puntual | Pausado |                  | Mantener en vigilancia; reactivar solo con demanda clara |
 
 ---
 
@@ -37,9 +26,15 @@
 
 - Acción inmediata: concluir informe breve sobre resultados y aprendizajes de la última clase con JLO
 - Hipótesis crítica: un documento corto y claro acelera la aceptación del gerente
-- Bloqueo actual: falta de tiempo para escribir y sintetizar impacto
 - Siguiente validación: enviar informe hoy; solicitar fecha de próxima reunión o piloto
 - Enfoque: priorizar evidencia municipal sobre ideas generales
+
+---
+
+## 🏛️ SOMU — Estado institucional
+
+- Estado: 🟡 STANDBY
+- Bloqueo actual: comité regional aún sin avance concreto
 
 ---
 
