@@ -15,3 +15,7 @@
 
 # Archivos temporales de Office
 ~$*
+
+# Carpetas temporales de drive uploads/downloads
+.tmp.driveupload/
+tmp.drivedownload/

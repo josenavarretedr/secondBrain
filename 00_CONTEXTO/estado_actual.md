@@ -1,27 +1,27 @@
-# Estado Actual — Semana [N] / [Mes] 2026
+# Estado Actual — Semana 1 / Mayo 2026
 
-> Última actualización: YYYY-MM-DD | Próxima revisión: [día]
+> Última actualización: 2026-05-01 | Próxima revisión: 2026-05-04
 
 ---
 
 ## 🔴 FRENTES ACTIVOS CON FECHA LÍMITE
 
-| Proyecto | Acción concreta                    | Fecha límite   | Estado |
-| -------- | ---------------------------------- | -------------- | ------ |
-| AISOS    | Llamar 20 beneficiarios → lista 10 | Lunes 4 mayo   | [ ]    |
-| TESIS    | Completar subcapítulo → enviar     | Viernes 1 mayo | [ ]    |
-| WALA     | Preparar sesión municipalidad      | Martes 5 mayo  | [ ]    |
+| Proyecto | Acción concreta                                                         | Fecha límite   | Estado |
+| -------- | ----------------------------------------------------------------------- | -------------- | ------ |
+| AISOS    | Llamar 20 beneficiarios y dejar lista inicial de 10 interesadas         | Lunes 4 mayo   | [ ]    |
+| TFM      | Completar subcapítulo + verificar enlaces de referencias bibliográficas | Viernes 1 mayo | [ ]    |
+| WALA     | Preparar informe breve sobre clases municipales para JLO y gerente      | Sábado 2 mayo  | [ ]    |
 
 ---
 
 ## 💰 CASHFLOW — Estado financiero operativo
 
-| Fuente              | Estado        | Ingreso estimado | Próxima acción        |
-| ------------------- | ------------- | ---------------- | --------------------- |
-| Aldeas Infantiles   | Activo        | S/               | Facturar [fecha]      |
-| Asesoría tesis      | Activo        | S/               |                       |
-| WALA B2C            | En desarrollo |                  | Cerrar primer cliente |
-| Consultoría puntual |               |                  |                       |
+| Fuente              | Estado        | Ingreso estimado | Próxima acción                                   |
+| ------------------- | ------------- | ---------------- | ------------------------------------------------ |
+| Aldeas Infantiles   | Activo        | S/ [pendiente]   | Facturar contrato vigente                        |
+| Asesoría tesis      | Activo        | S/ [pendiente]   | Entregar avance y facturar                       |
+| WALA B2C            | En desarrollo | S/ [potencial]   | Apoyar el informe municipal como prueba de valor |
+| Consultoría puntual | Pausado       |                  | Evaluar demanda antes de reactivar               |
 
 ---
 
@@ -36,21 +36,21 @@
 
 ## 📈 WALA — Estado del producto
 
-- Feature activa: [qué se está construyendo]
-- Hipótesis principal: [la más importante ahora]
-- Bloqueo actual: [qué lo frena]
-- Municipalidad: [estado negociación]
-- B2C: [estado comercial]
+- Acción inmediata: informe breve sobre últimas clases con municipalidad JLO
+- Hipótesis principal: el gerente acepta continuar si entregamos resultados claros y aprendizaje aplicado
+- Bloqueo actual: necesidad de resumir en poco tiempo y con foco en impacto
+- Reunión/validación: usar el informe como base para negociar próxima clase o piloto
+- B2C: mantener enfoque en primer cliente con piloto rápido y evidencia municipal
 
 ---
 
 ## 🧠 HIPÓTESIS ACTIVAS DEL SISTEMA
 
-| Hipótesis | Proyecto | Confianza     | Validar con |
-| --------- | -------- | ------------- | ----------- |
-|           | WALA     | 🔴 Alta       |             |
-|           | AISOS    | 🟡 Media      |             |
-|           | SOMU     | 🟢 Explorando |             |
+| Hipótesis                                                                  | Proyecto | Confianza     | Validar con               |
+| -------------------------------------------------------------------------- | -------- | ------------- | ------------------------- |
+| 20 llamadas a beneficiarios permiten calibrar demanda AISOS                | AISOS    | 🟡 Media      | Resultados de llamadas    |
+| Un informe breve y claro sobre clases municipales fortalece la negociación | WALA     | 🟡 Media      | Respuesta del gerente JLO |
+| SOMU requiere apoyo institucional externo para avanzar                     | SOMU     | 🟢 Explorando | Respuesta del comité      |
 
 ---
 
@@ -68,13 +68,12 @@
 > Esto NO se trabaja esta semana:
 
 - SOMU → standby hasta comité
-- [otro frente que decidiste pausar]
+- Contenido de redes intensivas → pausa hasta validar cashflow
 
 ---
 
 ## 📅 HISTORIAL DE ACTUALIZACIONES
 
-| Fecha      | Qué cambió                   |
-| ---------- | ---------------------------- |
-| 2026-05-01 | Creación inicial del sistema |
-|            |                              |
+| Fecha      | Qué cambió                                                                     |
+| ---------- | ------------------------------------------------------------------------------ |
+| 2026-05-01 | Ajuste de prioridades: WALA informe municipal, TFM referencias, AISOS llamadas |
