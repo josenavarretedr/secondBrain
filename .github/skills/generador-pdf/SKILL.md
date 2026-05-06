@@ -1,3 +1,9 @@
+---
+name: generador-pdf
+description: 'Generador de Documento Profesional'
+user-invocable: true
+---
+
 ﻿---
 name: generador_pdf
 description: Generador de Documento Profesional
@@ -49,4 +55,5 @@ PASO 3 — Guarda como:
 
 PASO 4 — Confirma ruta del archivo creado.
 Listo para exportar a PDF con cualquier conversor markdown.
+
 

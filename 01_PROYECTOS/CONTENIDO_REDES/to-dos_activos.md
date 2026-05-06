@@ -16,3 +16,7 @@
 | Video                       | Proyecto | Duración   | Drive  |
 | --------------------------- | -------- | ---------- | ------ |
 | Testimonio cliente avanzado | WALA     | [duración] | [link] |
+
+## 🧠 Ideas pendientes
+
+- [CONTENIDO] Post-testimonio mínimo viable

@@ -13,4 +13,4 @@
 
 ## 🧠 Ideas pendientes
 
--
+- [SOMU] Enfoque en propuesta formal, no en nueva investigación

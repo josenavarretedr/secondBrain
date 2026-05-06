@@ -1,3 +1,9 @@
+---
+name: gestor-contenido
+description: 'Gestor de Contenido'
+user-invocable: true
+---
+
 ﻿---
 name: gestor_contenido
 description: Gestor de Contenido
@@ -50,4 +56,5 @@ PASO 3 — Actualiza to-dos_activos.md con:
 - Plataforma principal
 
 PASO 4 — Registra en publicaciones/calendario\_[mes].md
+
 

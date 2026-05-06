@@ -1,3 +1,9 @@
+---
+name: buendia
+description: 'Inicia el día con prioridades precargadas'
+user-invocable: true
+---
+
 ﻿---
 name: buenDia
 description: Inicia el día con prioridades precargadas
@@ -43,3 +49,4 @@ PASO 4 — Dame:
 - Una sola frase de foco para el día (estilo estoico)
 
 No preguntes. Ejecuta y muestra resultado.
+

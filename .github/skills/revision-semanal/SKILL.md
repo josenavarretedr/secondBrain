@@ -1,3 +1,9 @@
+---
+name: revision-semanal
+description: 'Revisión Semanal'
+user-invocable: true
+---
+
 ﻿---
 name: revision_semanal
 description: Revisión Semanal
@@ -51,4 +57,5 @@ GENERA REPORTE SEMANAL:
 
 PASO FINAL — Genera borrador actualizado de estado_actual.md
 para la próxima semana. Muestra diff. Confirma antes de guardar.
+
 

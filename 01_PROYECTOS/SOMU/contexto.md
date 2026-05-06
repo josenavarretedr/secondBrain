@@ -7,7 +7,12 @@ Validación institucional + cooperación.
 
 ## Estado
 
-🟡 STANDBY — Esperando Comité Regional de Salud
+**🌐 Ver Estado Global:** [[estado_actual]]
+**📋 Tareas Pendientes:** [[to-dos_activos]]
+
+🟡 STANDBY — Archivo como foco secundario; sin actividad hasta señal clara.
+
+> Actualmente se mantiene en observación para no dispersar foco del sistema.
 
 ## Pendiente para reactivar
 

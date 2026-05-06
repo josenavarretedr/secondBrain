@@ -1,3 +1,9 @@
+---
+name: detector-patrones
+description: 'Detector de Patrones'
+user-invocable: true
+---
+
 ﻿---
 name: detector_patrones
 description: Detector de Patrones
@@ -43,4 +49,5 @@ Detecta y reporta:
 ## Acción recomendada
 
 [1 sola acción para esta semana basada en los patrones]
+
 

@@ -1,3 +1,9 @@
+---
+name: nota-reunion
+description: 'Registrar Nota de Reunión'
+user-invocable: true
+---
+
 ﻿---
 name: nota_reunion
 description: Registrar Nota de Reunión
@@ -24,4 +30,5 @@ PASO 5 — Si hay compromisos con fecha → agrégalos a estado_actual.md secci�
 PASO 6 — Si hay nuevo stakeholder → agrégalo a contexto.md del proyecto
 
 Confirma archivos creados/modificados.
+
 

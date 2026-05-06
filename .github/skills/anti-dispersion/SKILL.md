@@ -1,3 +1,9 @@
+---
+name: anti-dispersion
+description: 'Anti-Dispersión'
+user-invocable: true
+---
+
 ﻿---
 name: anti_dispersion
 description: Anti-Dispersión
@@ -33,4 +39,5 @@ PASO 4 — Lista de frentes a PAUSAR esta semana con justificación
 PASO 5 — Actualiza estado_actual.md sección "Frentes cerrando" con los pausados
 
 Sé honesto aunque sea incómodo. El foco genera resultados.
+
 

@@ -1,3 +1,9 @@
+---
+name: briefing-proyecto
+description: 'Briefing de Proyecto'
+user-invocable: true
+---
+
 ﻿---
 name: briefing_proyecto
 description: Briefing de Proyecto
@@ -42,4 +48,5 @@ Dame briefing ejecutivo:
 [¿Esto genera ingreso esta semana? ¿Cómo?]
 
 Sin texto de relleno. Solo datos del vault.
+
 

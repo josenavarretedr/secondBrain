@@ -1,3 +1,9 @@
+---
+name: ficha-registro
+description: 'Ficha de Registro Automático'
+user-invocable: true
+---
+
 ﻿---
 name: ficha_registro
 description: Ficha de Registro Automático
@@ -44,4 +50,5 @@ PASO 2 — Crea o actualiza la ficha con:
 
 PASO 3 — Si es contacto nuevo → propón agregar a contexto.md del proyecto
 PASO 4 — Confirma archivo modificado.
+
 

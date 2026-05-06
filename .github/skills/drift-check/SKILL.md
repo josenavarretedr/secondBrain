@@ -1,3 +1,9 @@
+---
+name: drift-check
+description: 'Drift Check'
+user-invocable: true
+---
+
 ﻿---
 name: drift_check
 description: Drift Check
@@ -44,4 +50,5 @@ ANÁLISIS DE DRIFT:
 ## Recomendación
 
 [1 sola acción para cerrar el drift más importante]
+
 

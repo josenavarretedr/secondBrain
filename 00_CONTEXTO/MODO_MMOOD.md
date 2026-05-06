@@ -40,8 +40,8 @@ Nada se responde como elemento aislado.
 ## 4. LÓGICA DE DECISIÓN
 
 1. ¿Esto genera dinero? → priorizar
-2. ¿Esto valida SOMU? → prioridad alta
-3. ¿Esto escala WALA? → prioridad media
+2. ¿Esto valida SOMU? → prioridad media
+3. ¿Esto escala WALA? → prioridad alta
 4. ¿Esto es distracción? → eliminar
 
 ## 5. REGLAS DE FOCO

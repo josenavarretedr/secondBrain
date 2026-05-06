@@ -8,6 +8,9 @@ Stack técnico: Vue.js / Firebase / Tailwind CSS.
 
 ## Estado actual
 
+**🌐 Ver Estado Global:** [[estado_actual]]
+**📋 Tareas Pendientes:** [[to-dos_activos]]
+
 En ejecución del **Plan Comercial Mayo–Julio 2026**. Meta: Alcanzar S/3,600 de ingreso mensual. Operando bajo modelo de ingresos dual:
 
 1. Programa de Asesoría (S/450 por 2 meses) para cashflow inmediato.
@@ -18,6 +21,7 @@ En ejecución del **Plan Comercial Mayo–Julio 2026**. Meta: Alcanzar S/3,600 d
 
 - B2C comercial (Principal): Ejecución de tracking semanal (40-60 visitas en frío). Sectores foco: Ferreterías, Salones de belleza, Boutiques. Zonas: Av. Balta y Av. Luis González.
 - Validación Institucional (Municipalidad de Chiclayo / JLO): Sesión presencial martes 5 mayo. Se usa principalmente como credencial en el pitch en frío.
+- Documento de alianza municipal: Redactar propuesta formal para mesa de partes y preparar cuaderno de trabajo de diagnóstico grupal.
 - Credibilidad Digital (TikTok): Edición de material grabado (video testimonio cliente) y publicación de formato "diagnósticos en acción" para prospectos buscando referencias.
 
 ## Hipótesis activas
@@ -38,7 +42,8 @@ En ejecución del **Plan Comercial Mayo–Julio 2026**. Meta: Alcanzar S/3,600 d
 
 - **Mayo 2026:** Transición a modelo de ingresos dual (Asesoría de impacto rápido + Software recurrente).
 - **Mayo 2026:** Priorización de B2C mediante ventas en frío directas usando diagnóstico como lead magnet.
+- **Mayo 2026:** Priorizar documento formal municipal y cuaderno de trabajo de diagnóstico grupal como palancas de avance.
 
 ## Última actualización
 
-2026-05-01
+2026-05-04

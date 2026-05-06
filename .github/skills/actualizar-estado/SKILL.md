@@ -1,7 +1,6 @@
 ---
-description: "Use when: actualizar el estado operativo del sistema a partir de los diarios recientes y el contexto actual."
-name: "actualizar-estado"
-tools: [read, edit, search]
+name: actualizar-estado
+description: 'Use when: actualizar el estado operativo del sistema a partir de los diarios recientes y el contexto actual.'
 user-invocable: true
 ---
 

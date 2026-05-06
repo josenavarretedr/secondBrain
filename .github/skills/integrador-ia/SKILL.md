@@ -1,3 +1,9 @@
+---
+name: integrador-ia
+description: 'Integrador de IA Externa'
+user-invocable: true
+---
+
 ﻿---
 name: integrador_ia
 description: Integrador de IA Externa
@@ -46,4 +52,5 @@ PASO 5 — Confirma:
 - Archivos creados
 - Archivos modificados
 - Nada se pierde
+
 

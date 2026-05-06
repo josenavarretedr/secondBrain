@@ -12,6 +12,9 @@ Ver: [[03_NOTEBOOK_LM/links_activos#tesis]]
 
 ## Estado actual
 
+**🌐 Ver Estado Global:** [[estado_actual]]
+**📋 Tareas Pendientes:** [[to-dos_activos]]
+
 - Subcapítulo pendiente: [completar]
 - Entrega: HOY viernes 1 mayo
 

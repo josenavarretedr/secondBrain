@@ -1,3 +1,9 @@
+---
+name: registrar-archivo
+description: 'Registrar Archivo de Referencia'
+user-invocable: true
+---
+
 ﻿---
 name: registrar_archivo
 description: Registrar Archivo de Referencia
@@ -32,4 +38,5 @@ PASO 3 — Si es investigación → registra también en 03_NOTEBOOK_LM/links_ac
 PASO 4 — Si es imagen → registra en 04_RECURSOS/imagenes/ con nombre descriptivo
 
 PASO 5 — Confirma qué archivos fueron modificados o creados.
+
 

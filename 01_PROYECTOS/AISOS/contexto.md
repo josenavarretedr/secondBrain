@@ -1,30 +1,84 @@
-# Aldeas Infantiles — Contexto
+# Aldeas Infantiles — Contexto Operativo
 
-## Qué es
+## 1. Misión
 
-Consultoría de emprendimiento. Transferencia metodológica
-del experto desde Lima. Capacitación a beneficiarios.
+Proveer una consultoría integral que identifique beneficiarios, imparta dos capacitaciones (empleabilidad y emprendimiento) y entregue capital semilla a emprendimientos seleccionados, generando capacidades sostenibles y trayectorias de inserción económica.
 
-## Estado
+## 2. Objetivo de la consultoría (resumen)
 
-- Sesiones transferencia: [completar — falta 1 sesión]
-- Lista beneficiarios: 20 personas → definitiva lunes 4 mayo
-- Primera sesión capacitación: viernes 9 mayo aprox
+- Identificar y validar una cohorte de participantes para dos rutas formativas: Empleabilidad y Emprendimiento.
+- Ejecutar módulos de capacitación con evaluación práctica y acompañamiento técnico.
+- Seleccionar y entregar capital semilla a propuestas viables, con criterios técnicos y acuerdo de seguimiento.
 
-## Herramientas del experto
+## 3. Alcance / TDR (borrador)
 
-Ver índice detallado: [[resumen_herramientas]]
-También puedes consultar la carpeta general en: [[recursos_drive]]
+- Componentes principales:
+  - Fase 1 — Identificación: recopilación y validación de postulantes; verificación de datos; llamadas de confirmación.
+  - Fase 2 — Capacitación: dos trayectos formativos separados (Empleabilidad; Emprendimiento). Cada trayecto incluye materiales, 6 sesiones (ejemplo), registro de asistencia y evaluación de salida.
+  - Fase 3 — Capital semilla: convocatoria interna, evaluación con matriz, adjudicación y firma de compromisos; entrega y registro legal (actas).
 
-_Incluye herramientas de gestión y seguimiento (selección, reportes, actas), así como anexos educativos del Módulo de Emprendimiento Nivel II (Guías, Diapositivas y Cuadernos de trabajo)._
+- Entregables clave:
+  - Padrón validado de beneficiarios.
+  - Plan de sesiones y materiales (guía facilitador, diapositivas, cuadernos).
+  - Registro de asistencia y evaluaciones.
+  - Informe de selección y actas de entrega de capital semilla.
 
-## Stakeholders
+## 4. Herramientas y Recursos (referencia)
 
-| Nombre             | Rol                        | Contacto |
-| ------------------ | -------------------------- | -------- |
-| Experto Lima       | Transferencia metodológica |          |
-| Coordinador Aldeas | Cliente                    |          |
+Todos los instrumentos y plantillas están en la carpeta de recursos. Recursos clave:
 
-## NotebookLM
+- Plantilla selección y padrón: DPR-F-XX - Herramienta 2 / Herramienta 5
+- Plan de servicio (formato): DPR-F-XX - Herramienta 4 - Plan de servicio - EET.docx
+- Matrices: Herramienta 8 (selección de ganadores) y Herramienta 9 (solicitud de fondos)
+- Registro y seguimiento: Herramienta 6 y Herramienta 12
 
-Ver: [[03_NOTEBOOK_LM/links_activos#aldeas]]
+Ver inventario completo en: 01_PROYECTOS/AISOS/recursos_drive/resumen_herramientas.md
+
+## 5. Estado actual y observaciones (vivo)
+
+**🌐 Ver Estado Global:** [[estado_actual]]
+**📋 Tareas Pendientes:** [[to-dos_activos]]
+
+- Fase actual: Identificación → el coordinador de Aldeas (programa Chiclayo) envió una lista de posibles interesados en la ruta de emprendimiento.
+- Bloqueos / riesgos: necesidad de confirmar disponibilidad telefónica; posibles duplicados en la lista; fechas de capacitación por definir.
+- Del vaciado mental: falta confirmación de pago, acceso a carpeta OneDrive, coordinación de impresiones y materiales con Juan Diego, y preparación del script de llamadas.
+
+## 6. Acciones inmediatas (próximos pasos)
+
+1. Llamar a la lista de beneficiarios enviada por el coordinador (confirmar asistencia y datos). — Responsable: [TBD].
+2. Validar y actualizar padrón en la Herramienta 5 (Lista de participantes - Emprendimiento.xlsx).
+3. Pedir a Juan Diego acceso de editor a la carpeta OneDrive del proyecto y subir allí los materiales de monitoreo y herramientas.
+4. Programar fechas tentativas para cada trayecto y definir sedes / modalidad (presencial/virtual).
+5. Revisar Plan de servicio adjunto y consolidar cronograma operativo.
+6. Preparar el guion de llamadas y bloques de agenda, así como la gestión de impresiones y movilidades con Aldeas.
+
+Checklist rápida:
+
+- [ ] Llamadas realizadas
+- [ ] Padrón actualizado
+- [ ] Cronograma borrador entregado
+- [ ] Materiales iniciales listos (guía + diapositivas)
+- [ ] Acceso OneDrive solicitado
+- [ ] Script de llamada preparado
+
+## 7. Plan operativo / documentación de apoyo
+
+- Plan operativo recibido: (archivo adjunto) Plan de servicio_EET_Ruta de Cuidado.docx — por favor subir copia a la carpeta `01_PROYECTOS/AISOS/recursos_drive/HERRAMIENTAS/` o pegar secciones relevantes para incorporar al cronograma.
+
+## 8. Preguntas abiertas / decisiones pendientes
+
+- ¿Confirmamos responsables y fechas para las llamadas? (Necesitamos asignar quién llama y en qué rango de fechas)
+- ¿Deseas que prepare el script de llamada y la lista telefónica para ejecución inmediata?
+
+---
+
+Documentos fuente y recursos: ver [03_NOTEBOOK_LM/links_activos#aldeas] y el índice de herramientas en `recursos_drive/resumen_herramientas.md`.
+
+## Backlinks (Obsidian)
+
+- [[contexto]]
+- [[to-dos_activos]]
+- [[recursos_drive/resumen_herramientas]]
+- [[03_NOTEBOOK_LM/links_activos#aldeas]]
+- [[Plan de servicio_EET_Ruta de Cuidado.docx]]
+- [[Vaciado mental]]

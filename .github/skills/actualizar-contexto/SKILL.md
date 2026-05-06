@@ -1,3 +1,9 @@
+---
+name: actualizar-contexto
+description: 'Actualizar Contexto de Proyecto'
+user-invocable: true
+---
+
 ﻿---
 name: actualizar_contexto
 description: Actualizar Contexto de Proyecto
@@ -36,4 +42,5 @@ PASO 3 — Muestra SOLO las secciones que cambian en formato:
 
 PASO 4 — No toques las secciones que no cambian.
 PASO 5 — Espera confirmación antes de guardar.
+
 

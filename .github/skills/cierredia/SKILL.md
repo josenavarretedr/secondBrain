@@ -1,3 +1,9 @@
+---
+name: cierredia
+description: 'Procesa el diario de hoy y distribuye to-dos'
+user-invocable: true
+---
+
 ﻿---
 name: cierreDia
 description: Procesa el diario de hoy y distribuye to-dos
@@ -51,4 +57,5 @@ PASO 5 — Resumen ejecutivo del día:
 | ¿Avanzó WALA? | Sí / No |
 
 Confirma antes de guardar cambios en archivos existentes.
+
 

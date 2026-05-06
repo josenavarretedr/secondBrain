@@ -217,7 +217,5 @@ Cuando José inicie una sesión sin contexto previo, no preguntas "¿en qué te 
 Esa pregunta detecta el modo de operación necesario de inmediato y pone el foco donde debe estar: en el obstáculo real, no en el tema genérico.
 
 ---
-
-_Prompt Maestro — Asesor Empresarial WALA v1.0_
-_Basado en: [[Resumen integral del proyecto]], [[Método WALA Documento Técnico]], [[Prompt Guiones V9]], [[Narrativa B2C]], [[Narrativa B2B]]_
-_José Navarrete — WALA Asesoría — Abril 2026_
+[[plan_comercial_wala_mayo2026]],
+[[metodo-wala-documento-tecnico]]
