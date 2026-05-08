@@ -4,10 +4,10 @@ description: 'Procesa el diario de hoy y distribuye to-dos'
 user-invocable: true
 ---
 
-﻿---
-name: cierreDia
-description: Procesa el diario de hoy y distribuye to-dos
----
+
+
+
+
 
 # INSTRUCCIÓN DE AGENTE
 

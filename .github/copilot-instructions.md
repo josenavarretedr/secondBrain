@@ -90,21 +90,26 @@ Micro-mantras disponibles:
 
 ## COMANDOS DEL SISTEMA
 
-| Comando                 | Qué hace                                               |
-| ----------------------- | ------------------------------------------------------ |
-| /nueva-nota             | Crea diario del día desde template                     |
-| /hoy                    | Plan del día priorizado MMOOD                          |
-| /cierre                 | Procesa diario y distribuye to-dos                     |
-| /aldeas                 | Briefing Aldeas Infantiles                             |
-| /wala                   | Briefing WALA completo                                 |
-| /tesis                  | Estado tesis maestría                                  |
-| /somu                   | Estado SOMU                                            |
-| /contenido              | Plan publicaciones + videos pendientes                 |
-| /ideas                  | Patrones detectados últimas 2 semanas                  |
-| /drift                  | Intenciones vs acciones 30 días                        |
-| /integrar               | Procesa output externo (Perplexity/NotebookLM/ChatGPT) |
-| /actualizar-estado      | Actualiza estado_actual.md semanal                     |
-| /generar-pdf [proyecto] | Genera PDF profesional desde archivos del proyecto     |
+| Comando | Skill Asociada | Qué hace |
+| --- | --- | --- |
+| `/buendia` | `buendia` | Inicia el día creando la nota con prioridades precargadas |
+| `/cierre` | `cierredia` | Procesa el diario de hoy y distribuye to-dos |
+| `/revision` | `revision-semanal` | Reporte semanal de progreso, cashflow y prioridades |
+| `/actualizar-estado`| `actualizar-estado`| Actualiza `estado_actual.md` basado en diarios recientes |
+| `/contexto` | `actualizar-contexto` | Actualiza el contexto de un proyecto tras una decisión |
+| `/anti-dispersion` | `anti-dispersion` | Fuerza a pausar frentes abiertos y priorizar ejecución |
+| `/drift` | `drift-check` | Compara intenciones vs acciones (30 días) |
+| `/ideas` | `detector-patrones` | Detecta patrones e ideas repetidas sin ejecutar (14 días) |
+| `/integrar` | `integrador-ia` | Toma output de IA externa y lo distribuye en el sistema |
+| `/generar-pdf` | `generador-pdf` | Genera reporte del proyecto listo para exportar a PDF |
+| `/reunion` | `nota-reunion` | Estructura notas en bruto, extrae to-dos y compromisos |
+| `/ficha` | `ficha-registro` | Registra recursos, contactos o referencias |
+| `/archivo` | `registrar-archivo` | Registra un archivo (Excel, PDF, imagen, doc) |
+| `/wala` | `briefing-proyecto` | Briefing ejecutivo de WALA |
+| `/aldeas` | `briefing-proyecto` | Briefing ejecutivo de Aldeas Infantiles |
+| `/tesis` | `briefing-proyecto` | Briefing ejecutivo de Tesis Maestría |
+| `/somu` | `briefing-proyecto` | Briefing ejecutivo de SOMU |
+| `/contenido` | `gestor-contenido`| Produce contenido (guiones, captions) de redes |
 
 ---
 

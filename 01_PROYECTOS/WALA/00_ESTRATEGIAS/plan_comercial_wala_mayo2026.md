@@ -18,13 +18,13 @@ La estrategia de adquisición principal es **venta en frío con diagnóstico gra
 
 ### Producto 1 — Programa de Asesoría (ingreso de caja)
 
-| Componente | Detalle |
-|---|---|
-| **Precio total** | S/450 por 2 meses |
-| **Estructura de cobro** | S/225 al inicio + S/225 al cumplir 1 mes |
-| **Qué incluye** | Diagnóstico inicial (Sesión 0 · 7 áreas · 21 indicadores), 7 sesiones estructuradas en 3 ciclos, plan de acción individualizado, acceso a WALA plataforma incluido durante el programa |
-| **Garantía** | Si en 2 meses el emprendedor no tiene más claridad sobre su negocio, no se cobra |
-| **Tipo de ingreso** | No recurrente — requiere nuevos cierres cada mes |
+| Componente              | Detalle                                                                                                                                                                                |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Precio total**        | S/450 por 2 jmeses                                                                                                                                                                     |
+| **Estructura de cobro** | S/225 al inicio + S/225 al cumplir 1 mes                                                                                                                                               |
+| **Qué incluye**         | Diagnóstico inicial (Sesión 0 · 7 áreas · 21 indicadores), 7 sesiones estructuradas en 3 ciclos, plan de acción individualizado, acceso a WALA plataforma incluido durante el programa |
+| **Garantía**            | Si en 2 meses el emprendedor no tiene más claridad sobre su negocio, no se cobra                                                                                                       |
+| **Tipo de ingreso**     | No recurrente — requiere nuevos cierres cada mes                                                                                                                                       |
 
 ### Producto 2 — WALA Independiente (ingreso recurrente)
 

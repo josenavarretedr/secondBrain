@@ -20,8 +20,8 @@ En ejecución del **Plan Comercial Mayo–Julio 2026**. Meta: Alcanzar S/3,600 d
 **Frentes activos:**
 
 - B2C comercial (Principal): Ejecución de tracking semanal (40-60 visitas en frío). Sectores foco: Ferreterías, Salones de belleza, Boutiques. Zonas: Av. Balta y Av. Luis González.
-- Validación Institucional (Municipalidad de Chiclayo / JLO): Sesión presencial martes 5 mayo. Se usa principalmente como credencial en el pitch en frío.
-- Documento de alianza municipal: Redactar propuesta formal para mesa de partes y preparar cuaderno de trabajo de diagnóstico grupal.
+- Validación Institucional (Municipalidad de Chiclayo / JLO): Sesión presencial martes 5 mayo. La municipalidad de JLO solicitó la posibilidad de aperturar un nuevo grupo, lo cual permite gestionar de manera más eficiente el programa usando WALA.
+- Documento de alianza municipal: Redactar propuesta formal para mesa de partes, diseñar el documento técnico, gestionar auspicios con la municipalidad de JLO, y monitorear el diagnóstico de las 5 personas para el informe.
 - Credibilidad Digital (TikTok): Edición de material grabado (video testimonio cliente) y publicación de formato "diagnósticos en acción" para prospectos buscando referencias.
 
 ## Hipótesis activas

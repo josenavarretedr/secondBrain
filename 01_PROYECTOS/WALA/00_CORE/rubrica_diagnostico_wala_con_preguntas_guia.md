@@ -2,7 +2,7 @@
 
 ## Guía operativa con niveles 0–3 y preguntas guía conversacionales para el asesor
 
-**Base metodológica:** Este documento desarrolla la matriz de 21 indicadores del Método WALA y traduce la escala 0–3 a criterios observables y conversables para uso en diagnóstico. La estructura de 7 áreas, 21 indicadores y escala de valoración proviene del documento técnico del Método WALA [cite:2].
+**Base metodológica:** Este documento desarrolla la matriz de 21 indicadores del Método WALA y traduce la escala 0–3 a criterios observables y conversables para uso en diagnóstico. La estructura de 7 áreas, 21 indicadores y escala de valoración proviene del documento técnico del Método WALA.
 
 ## Propósito del documento
 

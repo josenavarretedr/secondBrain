@@ -8,23 +8,33 @@ Antes de responder cualquier cosa, lee estos archivos en este orden:
 2. 00_CONTEXTO/arquitectura_sistema.md
 3. 00_CONTEXTO/estado_actual.md
 
-## Comandos base
+## Comandos de Flujo Diario/Semanal (Core)
 
-/contexto — carga 00_CONTEXTO/ completo
-/hoy — genera diario con to-dos de TODOS los proyectos
-/cierre — procesa diario y distribuye
+/buendia — Inicia el día creando la nota con prioridades precargadas (cashflow, WALA, SOMU)
+/cierre — Procesa diario de hoy, distribuye to-dos y actualiza estado
+/revision — Ejecuta revisión semanal (completado vs prometido, cashflow, hipótesis)
+/actualizar-estado — Actualiza estado_actual.md analizando los diarios recientes
+/sync — Sincroniza en caliente el diario de hoy, distribuye to-dos y actualiza estado sin cerrar el día
+/contexto — Actualiza el contexto de un proyecto específico tras una decisión o cambio
 
-## Comandos por proyecto
+## Comandos de Foco y Análisis
 
-/wala — briefing WALA: contexto + to-dos + estrategias pendientes
-/aldeas — briefing Aldeas Infantiles
-/tesis — briefing tesis + NotebookLM pendientes
-/somu — briefing SOMU
-/contenido — videos pendientes + plan de publicaciones
+/anti-dispersion — (o /foco) Analiza frentes abiertos y fuerza a pausar para priorizar cashflow
+/drift — Compara intenciones vs ejecución de los últimos 30 días
+/ideas — (o /patrones) Escanea diarios de los últimos 14 días y detecta patrones o ideas no ejecutadas
 
-## Comandos especiales
+## Comandos de Registro e Integración
 
-/integrar — "toma este resumen de NotebookLM/Perplexity y distribúyelo"
-/generar-pdf [proyecto] — crea PDF desde estrategia + imágenes Drive
-/ideas — escanea vault, detecta patrones no ejecutados
-/drift — compara intenciones vs acciones (30 días)
+/integrar — Procesa output de IA externa (NotebookLM/Perplexity) y lo distribuye en el vault
+/generar-pdf [proyecto] — Crea reporte markdown estructurado, listo para exportar a PDF
+/reunion — Estructura notas en bruto y extrae to-dos/compromisos
+/ficha — Registra cualquier recurso, contacto o herramienta en el sistema
+/archivo — Registra un archivo de referencia (Excel, PDF, imagen) en Drive/recursos_drive.md
+
+## Comandos de Proyecto (Briefing)
+
+/wala — Briefing WALA completo: contexto + entregas + bloqueos
+/aldeas — Briefing Aldeas Infantiles
+/tesis — Briefing Tesis de Maestría
+/somu — Briefing SOMU
+/contenido — Gestor de contenido: inventario, guiones y publicaciones pendientes

@@ -32,9 +32,9 @@ PASO 2 — Crea la nota del día:
 - Nombre: 02_DIARIO/[FECHA_HOY].md
 - Usa exactamente la plantilla en 04_RECURSOS/plantillas/diario_template.md
 - Precarga en TOP 3 las acciones más urgentes según prioridad:
-  1. Cashflow inmediato
-  2. Escalabilidad WALA
-  3. Validación SOMU
+  1. Cashflow inmediato (💰)
+  2. Escalabilidad WALA (📈)
+  3. Validación / Otros frentes activos (🏛️ / 🧠 - ej. TFM, o SOMU sólo si requiere acción real y no está en Standby)
 
 PASO 3 — Alerta si existe:
 

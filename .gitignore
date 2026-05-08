@@ -42,3 +42,7 @@ tmp.drivedownload/
 # Archivos de audio
 *.mp3
 *.wav
+
+# Archivos de las instalaciones de nodejs, tanto en la carpeta principal como en las carpetas de los multi repositorios
+node_modules
+*/node_modules

@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "32a75678bbcd8a5b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5b2c735eb0940d66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_PROYECTOS/WALA/00_CORE/Rubrica detallada metodo WALA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rubrica detallada metodo WALA"
-            }
-          }
-        ]
-      },
-      {
         "id": "395aee1cea1f7377",
         "type": "tabs",
         "children": [
@@ -73,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "🏛️",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,44 +198,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5b2c735eb0940d66",
+  "active": "a66969dc1bdde026",
   "lastOpenFiles": [
-    "01_PROYECTOS/WALA/00_CORE/rubrica_diagnostico_wala_con_preguntas_guia.md",
-    "01_PROYECTOS/WALA/00_CORE/Rubrica detallada metodo WALA.md",
-    "01_PROYECTOS/WALA/00_CORE/metodo-wala-documento-tecnico.md",
-    "01_PROYECTOS/TFM/2.4 Para enviar a Tatiana.md",
-    "01_PROYECTOS/WALA/00_CORE/Resumen Metodo WALA.md",
-    "01_PROYECTOS/AISOS/briefing.md",
-    "01_PROYECTOS/WALA/00_ESTRATEGIAS/Mapa de Claridad WALA (Hoja 1).md",
-    "01_PROYECTOS/AISOS/GESTION/~$EET Brasil 2026_Preeliminar comentarios.xlsx",
-    "01_PROYECTOS/AISOS/GESTION/9FB19500",
-    "01_PROYECTOS/AISOS/GESTION/FD557500",
-    "01_PROYECTOS/AISOS/GESTION/2F457500",
-    "01_PROYECTOS/AISOS/GESTION/1D457500",
-    "01_PROYECTOS/AISOS/GESTION/EET Brasil 2026_Preeliminar comentarios.xlsx",
-    "01_PROYECTOS/AISOS/GESTION/51632500",
-    "01_PROYECTOS/AISOS/GESTION/C0632500",
-    "01_PROYECTOS/AISOS/GESTION/00632500",
-    "01_PROYECTOS/AISOS/recursos_drive/~$an de servicio_EET_Ruta de Cuidado.docx",
-    "01_PROYECTOS/WALA/00_ESTRATEGIAS/plan_comercial_wala_mayo2026.md",
-    "01_PROYECTOS/WALA/00_ESTRATEGIAS/admin_comercial_plan.md",
-    "01_PROYECTOS/TFM/2.4. NOTEBOOK.md",
+    "02_DIARIO/2026-05-07.md",
     "01_PROYECTOS/AISOS/contexto.md",
-    "01_PROYECTOS/WALA/contexto_WALA.md",
-    "Prompt Guiones V9.md",
-    "Método WALA Documento Técnico.md",
-    "Resumen integral del proyecto.md",
-    "stakeholders.md",
-    "01_PROYECTOS/CONTENIDO_REDES/to-dos_activos.md",
-    "03_NOTEBOOK_LM/ideas_sueltas.md",
-    "02_DIARIO/2026-05-02.md",
-    "01_PROYECTOS/SOMU/to-dos_activos.md",
-    "02_DIARIO/2026-05-01 (conflict 2026-05-02-00-00-53).md",
-    "02_DIARIO/2026-05-01.md",
-    "02_DIARIO/2026-05-01 (conflict 2026-05-01-23-41-12).md",
-    "01_PROYECTOS/WALA/contexto.md",
-    "01_PROYECTOS/SOMU/contexto.md",
-    "04_RECURSOS/plantillas/reunion_template.md",
+    "01_PROYECTOS/AISOS/Vaciado mental.md",
+    "00_CONTEXTO/MODO_MMOOD.md",
+    "01_PROYECTOS/AISOS/GESTION/EET Brasil 2026_Preeliminar Servicios.xlsx",
+    "02_DIARIO/2026-05-02 (conflict 2026-05-06-09-00-56).md",
+    "00_CONTEXTO/estado_actual.md",
+    "04_RECURSOS/plantillas/diario_template.md",
+    "02_DIARIO/2026-05-06.md",
+    "GEMINI.md",
+    "01_PROYECTOS/WALA/00_CORE/Rubrica detallada metodo WALA.md",
+    "github/skills/revision-semanal/SKILL.md",
+    "github/skills/registrar-archivo/SKILL.md",
+    "github/skills/nota-reunion/SKILL.md",
+    "github/skills/integrador-ia/SKILL.md",
+    "github/skills/gestor-contenido/SKILL.md",
+    "github/skills/generador-pdf/SKILL.md",
+    "github/skills/ficha-registro/SKILL.md",
+    "github/skills/drift-check/SKILL.md",
+    "github/skills/detector-patrones/SKILL.md",
+    "github/skills/cierredia/SKILL.md",
+    "github/skills/buendia/SKILL.md",
+    "github/skills/briefing-proyecto/SKILL.md",
+    "github/skills/anti-dispersion/SKILL.md",
+    "github/skills/actualizar-estado/SKILL.md",
+    "github/skills/actualizar-contexto/SKILL.md",
+    "github/skills/revision-semanal",
+    "github/skills/registrar-archivo",
+    "github/skills/nota-reunion",
+    "github/skills/integrador-ia",
+    "github/skills/gestor-contenido",
+    "github/skills/generador-pdf",
+    "github/skills/ficha-registro",
+    "github/skills/drift-check",
+    "github/skills/detector-patrones",
+    "github/agents/README.md",
     "04_RECURSOS/plantillas/ChatGPT Image Apr 30, 2026, 03_37_22 PM.png",
     "Sin título.canvas"
   ]

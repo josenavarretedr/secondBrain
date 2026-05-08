@@ -39,13 +39,15 @@ Ver inventario completo en: 01_PROYECTOS/AISOS/recursos_drive/resumen_herramient
 **🌐 Ver Estado Global:** [[estado_actual]]
 **📋 Tareas Pendientes:** [[to-dos_activos]]
 
-- Fase actual: Identificación → el coordinador de Aldeas (programa Chiclayo) envió una lista de posibles interesados en la ruta de emprendimiento.
-- Bloqueos / riesgos: necesidad de confirmar disponibilidad telefónica; posibles duplicados en la lista; fechas de capacitación por definir.
-- Del vaciado mental: falta confirmación de pago, acceso a carpeta OneDrive, coordinación de impresiones y materiales con Juan Diego, y preparación del script de llamadas.
+- Fase actual: Implementación / Inicio de capacitaciones.
+- Cohorte definida: 15 participantes comprometidos de la lista original de 17 (2 descartados de inmediato: 1 gestante y 1 por falta de tiempo; el último uncontacto en seguimiento/cierre).
+- Próxima sesión: Primera clase presencial programada para el viernes 08 de mayo de 2026.
+- Bloqueos / riesgos: depurar grupos de WhatsApp para que queden solo los 15 comprometidos; coordinar con el coordinador Juan Diego la confirmación de materiales e impresiones para el viernes; actualizar la lista preliminar de participantes con números de carnet de extranjería/identidad (sugerir apoyo de ASOVENCHIC si es necesario).
+- Del vaciado mental: llamadas de selección completadas al 100%. Falta acceso a la carpeta OneDrive y entrega final de materiales de facilitador.
 
 ## 6. Acciones inmediatas (próximos pasos)
 
-1. Llamar a la lista de beneficiarios enviada por el coordinador (confirmar asistencia y datos). — Responsable: [TBD].
+1. Llamar a la lista de beneficiarios enviada por el coordinador (confirmar asistencia y datos). — Responsable: [Yo].
 2. Validar y actualizar padrón en la Herramienta 5 (Lista de participantes - Emprendimiento.xlsx).
 3. Pedir a Juan Diego acceso de editor a la carpeta OneDrive del proyecto y subir allí los materiales de monitoreo y herramientas.
 4. Programar fechas tentativas para cada trayecto y definir sedes / modalidad (presencial/virtual).
