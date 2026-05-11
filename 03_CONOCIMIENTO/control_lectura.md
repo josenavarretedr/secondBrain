@@ -6,20 +6,19 @@ Este es el espacio centralizado para gestionar el hábito de lectura sin que abr
 
 | Libro | Intención / Foco | Progreso |
 | ----- | ---------------- | -------- |
-| Meditaciones - Marco Aurelio | Enfoque y estoicismo aplicado | Última ingesta: [[ingesta_estoicismo_marco_aurelio]] |
+| **(Re-lectura)** Meditaciones — Marco Aurelio | Nutrir estoicismo, mindfulness y concentración mental. | Ingestas previas |
 
 ## 🎯 Por Leer (Backlog Priorizado)
 
 | Libro | Autor | Por qué leerlo |
 | ----- | ----- | -------------- |
 |       |       |                |
-|       |       |                |
-|       |       |                |
 
-## ✅ Terminados
+## ✅ Terminados / Consumidos
 
 | Libro | Fecha Fin | Calificación | Notas (Link) |
 | ----- | --------- | ------------ | ------------ |
+| El discurso perfecto — Bill McGowan | 2026-05-10 | - | Ing.: [[ingesta_enfoque_y_autenticidad]] |
 |       |           |              |              |
 
 ---

@@ -46,6 +46,7 @@ DICTADO DE VOZ (Teclado Google + Obsidian Mobile)
   2. Segmentación en "Bloques de Citas Literales".
   3. Extracción de **"Semillas de Conocimiento"**: Identificación de patrones con un resumen del concepto y su *potencial aplicación* a los proyectos activos del sistema.
   4. **Sincronización de Lectura (NUEVO):** Si se detecta que la fuente es un Libro, actualizar automáticamente `03_CONOCIMIENTO/control_lectura.md` en la sección "Leyendo Actualmente", registrando la fecha de la última ingesta como progreso.
+  5. **Limpieza de Inbox (NUEVO):** Si el texto proviene de un archivo .md ubicado en `02_RECURSOS/Inbox/`, mover dicho archivo origen a `02_RECURSOS/Inbox/Procesados/` una vez completada la ingesta para mantener el área de captura limpia.
 - **OUTPUT:** Archivo `.md` en `02_RECURSOS/Ingestas/` con prefijo `ingesta_[tema]`.
 
 ```markdown
