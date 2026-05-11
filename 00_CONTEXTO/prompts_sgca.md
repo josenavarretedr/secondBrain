@@ -13,7 +13,7 @@ INPUT REQUERIDO:
 PROCESO:
 1. Limpia gramaticalmente el texto sin alterar el tono.
 2. Segmenta el texto en "Bloques de Citas Literales".
-3. Extrae "Semillas de Conocimiento" (máximo 3). Cada semilla debe tener un título, un concepto clave y una potencial aplicación a los proyectos de NEWCOOP o al SISTEMA.
+3. Extrae "Semillas de Conocimiento" (máximo 3). Cada semilla debe tener un título, un concepto clave y una potencial aplicación. Incluye al final del concepto una breve referencia a la frase/cita de origen para mantener la trazabilidad visual. **REGLA CRÍTICA:** NO fuerces la aplicación a proyectos de negocio (WALA, AISOS, etc.) si la lectura es de desarrollo personal/mentalidad; en esos casos, la aplicación debe mapearse EXCLUSIVAMENTE al nodo SISTEMA (hábitos, mentalidad y claridad del fundador).
 4. Genera el archivo .md en `02_RECURSOS/Ingestas/` con el prefijo `ingesta_[tema]`. Asegúrate de incluir el campo `fuente:` en el YAML.
 
 **BUCLE INMEDIATO (CRUCIAL):**
