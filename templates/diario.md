@@ -21,6 +21,11 @@
 - [ ] 
 - [ ] 
 
+## 📚 Hábito de Lectura
+
+> 🚨 **Recordatorio:** Verifica el [[03_CONOCIMIENTO/control_lectura.md|Panel de Lectura]].
+- [ ] Aún no has leído hoy según el control de lectura.
+
 ## 📞 Reuniones / Interacciones
  
 | Persona | Org | Decisión / acción siguiente |

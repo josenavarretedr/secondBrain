@@ -45,6 +45,7 @@ DICTADO DE VOZ (Teclado Google + Obsidian Mobile)
   1. Limpieza gramatical sin alterar el tono original.
   2. Segmentación en "Bloques de Citas Literales".
   3. Extracción de **"Semillas de Conocimiento"**: Identificación de patrones con un resumen del concepto y su *potencial aplicación* a los proyectos activos del sistema.
+  4. **Sincronización de Lectura (NUEVO):** Si se detecta que la fuente es un Libro, actualizar automáticamente `03_CONOCIMIENTO/control_lectura.md` en la sección "Leyendo Actualmente", registrando la fecha de la última ingesta como progreso.
 - **OUTPUT:** Archivo `.md` en `02_RECURSOS/Ingestas/` con prefijo `ingesta_[tema]`.
 
 ```markdown
@@ -341,6 +342,7 @@ ARGUMENTARIO RÁPIDO:
 2. **Mapeo de Contexto:** Los conceptos apuntan a `[[01_PROYECTOS/WALA/contexto]]` o `[[00_CONTEXTO/estado_actual]]`.
 3. **Metadatos en YAML:** Dataview filtra por estado, dominio, revisión vencida y brief pendiente.
 4. **Archivo Central:** `03_CONOCIMIENTO/mapa_conceptual.md` generado por /indexar como punto de entrada único para consultoría.
+5. **Control de Hábito:** Conexión bidireccional entre `control_lectura.md` y el Diario Diario para asegurar la lectura activa.
 
 ### Queries Dataview recomendadas
 

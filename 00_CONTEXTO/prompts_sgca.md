@@ -14,7 +14,8 @@ PROCESO:
 1. Limpia gramaticalmente el texto sin alterar el tono.
 2. Segmenta el texto en "Bloques de Citas Literales".
 3. Extrae "Semillas de Conocimiento" (máximo 3). Cada semilla debe tener un título, un concepto clave y una potencial aplicación. Incluye al final del concepto una breve referencia a la frase/cita de origen para mantener la trazabilidad visual. **REGLA CRÍTICA:** NO fuerces la aplicación a proyectos de negocio (WALA, AISOS, etc.) si la lectura es de desarrollo personal/mentalidad; en esos casos, la aplicación debe mapearse EXCLUSIVAMENTE al nodo SISTEMA (hábitos, mentalidad y claridad del fundador).
-4. Genera el archivo .md en `02_RECURSOS/Ingestas/` con el prefijo `ingesta_[tema]`. Asegúrate de incluir el campo `fuente:` en el YAML.
+4. **Sincronización de Lectura:** Si la fuente mencionada es un libro, busca y actualiza el archivo `03_CONOCIMIENTO/control_lectura.md`. Si el libro ya está en la tabla "Leyendo Actualmente", actualiza el campo `Progreso` con la fecha actual y un link a la ingesta. Si no está, muévelo o añádelo a esa tabla.
+5. Genera el archivo .md en `02_RECURSOS/Ingestas/` con el prefijo `ingesta_[tema]`. Asegúrate de incluir el campo `fuente:` en el YAML.
 
 **BUCLE INMEDIATO (CRUCIAL):**
 Una vez guardado el archivo, NO te despidas pasivamente. Debes preguntar proactivamente al usuario si desea destilar alguna de las semillas en ese mismo instante.

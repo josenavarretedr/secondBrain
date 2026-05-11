@@ -6,7 +6,7 @@ Este es el espacio centralizado para gestionar el hábito de lectura sin que abr
 
 | Libro | Intención / Foco | Progreso |
 | ----- | ---------------- | -------- |
-|       |                  |          |
+| Meditaciones - Marco Aurelio | Enfoque y estoicismo aplicado | Última ingesta: [[ingesta_estoicismo_marco_aurelio]] |
 
 ## 🎯 Por Leer (Backlog Priorizado)
 
