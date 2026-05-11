@@ -12,6 +12,7 @@
 | Proyecto           | Tipo           | Prioridad  | Fecha límite próxima |
 | ------------------ | -------------- | ---------- | -------------------- |
 | Aldeas Infantiles  | Consultoría    | 🔴 Alta    | Lunes 4 mayo         |
+| GIZ                | Consultoría    | 🔴 Alta    | Por definir          |
 | Tesis Maestría     | Asesoría       | 🔴 Alta    | Viernes 1 mayo       |
 | WALA B2C           | Comercial      | 🟡 Media   | Esta semana          |
 | WALA Municipalidad | GovTech        | 🟡 Media   | Martes 5 mayo        |
