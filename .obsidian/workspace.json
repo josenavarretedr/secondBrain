@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "395aee1cea1f7377",
+        "id": "12839358dc279eb3",
         "type": "tabs",
         "children": [
           {
-            "id": "a66969dc1bdde026",
+            "id": "fd4be2bb98fae96d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.51190185546875,
-    "collapsed": true
+    "width": 388.51190185546875
   },
   "right": {
     "id": "5aadf652f569ec87",
@@ -194,8 +193,34 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a66969dc1bdde026",
+  "active": "fd4be2bb98fae96d",
   "lastOpenFiles": [
+    "02_DIARIO/2026-05-11.md",
+    "02_RECURSOS/Videos_Render/video_test.mp4",
+    "02_RECURSOS/Videos_Render/video_20260510_2302.mp4",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_1.png",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_2.png",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_3.png",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_4.png",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_5.png",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_6.png",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_7.png",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_8.png",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/123123.png",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_8.png.tmp",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_7.png.tmp",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_6.png.tmp",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_5.png.tmp",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_4.png.tmp",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_2.png.tmp",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_3.png.tmp",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_1.png.tmp",
+    "02_RECURSOS/Video_Scripts/frames/script_20260510_2302/img_10.png",
+    "03_CONOCIMIENTO/aprendizajes/la_dignidad_del_orden_dirigido.md",
+    "03_CONOCIMIENTO/aprendizajes/la_soberania_del_presente.md",
+    "02_RECURSOS/Ingestas/ingesta_meditaciones_marco_aurelio_20260510_v2.md",
+    "02_RECURSOS/Transcripciones/transcripcion_20260510_2324.md",
+    "01_PROYECTOS/WALA/briefing.md",
     "02_RECURSOS/Ingestas/ingesta_estoicismo_marco_aurelio.md",
     "Sin título.canvas",
     "01_PROYECTOS/WALA/00_CORE/rubrica_diagnostico_wala_con_preguntas_guia.md",
@@ -203,7 +228,6 @@
     "01_PROYECTOS/AISOS/contexto.md",
     "01_PROYECTOS/AISOS/Vaciado mental.md",
     "00_CONTEXTO/MODO_MMOOD.md",
-    "01_PROYECTOS/AISOS/GESTION/EET Brasil 2026_Preeliminar Servicios.xlsx",
     "02_DIARIO/2026-05-02 (conflict 2026-05-06-09-00-56).md",
     "00_CONTEXTO/estado_actual.md",
     "04_RECURSOS/plantillas/diario_template.md",
@@ -216,23 +240,6 @@
     "github/skills/integrador-ia/SKILL.md",
     "github/skills/gestor-contenido/SKILL.md",
     "github/skills/generador-pdf/SKILL.md",
-    "github/skills/ficha-registro/SKILL.md",
-    "github/skills/drift-check/SKILL.md",
-    "github/skills/detector-patrones/SKILL.md",
-    "github/skills/cierredia/SKILL.md",
-    "github/skills/buendia/SKILL.md",
-    "github/skills/briefing-proyecto/SKILL.md",
-    "github/skills/anti-dispersion/SKILL.md",
-    "github/skills/actualizar-estado/SKILL.md",
-    "github/skills/revision-semanal",
-    "github/skills/registrar-archivo",
-    "github/skills/nota-reunion",
-    "github/skills/integrador-ia",
-    "github/skills/gestor-contenido",
-    "github/skills/generador-pdf",
-    "github/skills/ficha-registro",
-    "github/skills/drift-check",
-    "github/skills/detector-patrones",
-    "04_RECURSOS/plantillas/ChatGPT Image Apr 30, 2026, 03_37_22 PM.png"
+    "github/skills/ficha-registro/SKILL.md"
   ]
 }

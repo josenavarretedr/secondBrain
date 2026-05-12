@@ -24,7 +24,8 @@ Antes de responder cualquier cosa, lee estos archivos en este orden:
 /ideas — (o /patrones) Escanea diarios de los últimos 14 días y detecta patrones o ideas no ejecutadas
 
 ## Comandos de Registro e Integración (SGCA)
-> **IMPORTANTE:** Para ejecutar `/ingestar`, `/destilar`, `/contentar`, `/aprendizaje_diario` o `/indexar`, la IA DEBE consultar obligatoriamente `00_CONTEXTO/especificacion_sistema_conocimiento.md` y `00_CONTEXTO/prompts_sgca.md` para aplicar los prompts exactos.
+> **IMPORTANTE:** Para ejecutar `/ingestar`, `/destilar`, `/contentar`, `/aprendizaje_diario` o `/indexar`, la IA DEBE consultar obligatoriamente `00_CONTEXTO/especificacion_sistema_conocimiento.md` y `00_CONTEXTO/prompts_sgca.md`. 
+> **Para `/buendia`, `/cierre` y `/sync`, la IA DEBE consultar `00_CONTEXTO/prompts_flujo_core.md`.**
 
 /ingestar [texto] — La IA extrae semillas y citas literales a '02_RECURSOS/Ingestas/'.
 /destilar [archivo_ingesta] + [semilla] + [reflexión] — Crea Nota Atómica en '03_CONOCIMIENTO/aprendizajes/' aplicando ruteamiento inteligente (Personal/Negocio/Técnico).

@@ -78,6 +78,9 @@ estado: Pendiente | Destilado
          - B) *Negocio Consolidado (+2 años):* Consejos de optimización/escalado.
          - Mapear SOLAMENTE a los nodos de NEWCOOP donde el concepto encaje genuinamente.
      - **SI ES TÉCNICO:** Mapear directamente a la documentación o repositorio aplicable.
+  4. **Mapeo de Red Neuronal (NUEVO):** Escanear archivos existentes en `03_CONOCIMIENTO/aprendizajes/`, identificar hasta 2 conceptos previos relacionados y generar enlaces contextuales.
+
+
 - **OUTPUT:** Archivo `.md` en `03_CONOCIMIENTO/aprendizajes/`.
 
 ```markdown
@@ -104,7 +107,11 @@ canal_asignado: null
 
 ## 🛠️ Aplicación en Ecosistema NEWCOOP (Solo nodos aplicables)
    - [[Proyecto Enlazado]]: Descripción pragmática.
+
+## 🔗 Red Neuronal (Conexiones)
+   - [[Concepto Previo]]: Breve explicación del nexo semántico.
 ```
+
 
 ---
 

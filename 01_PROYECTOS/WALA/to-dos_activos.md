@@ -6,10 +6,11 @@
 | ------------------------------------------------------------------------ | ----------- | ------ |
 | Preparar sesión municipalidad                                            | Lunes 3     | [x]    |
 | Redactar documento formal para mesa de partes municipal                  | Hoy         | [ ]    |
-| Diseñar documento técnico, ingresarlo por mesa de partes y gestionar auspicios con JLO | Esta semana | [ ]    |
-| Monitorear diagnóstico de las 5 personas para el informe municipal      | Esta semana | [ ]    |
+| Diseñar documento técnico, ingresar por mesa de partes y fijar fecha inicio | Lunes 11 mayo | [ ]    |
+| Contactar 5 mujeres piloto para asesoría y diagnóstico individual        | Lunes 11 mayo | [ ]    |
 | Editar video testimonio cliente                                          | Esta semana | [ ]    |
 | Publicar contenido WALA                                                  | Esta semana | [ ]    |
+| Generar intros para clips de Área 1 y planificar clips de las otras áreas (~42 clips en total) | Esta semana | [ ]    |
 | Realizar presentación de ventas en frío con dueño de negocio de comida rápida (menús/parrilla) | Jueves 7 mayo | [x]    |
 | Reunión de seguimiento con Jordan Corrales ("Milton's Cevichería") para iniciar asesoría gratuita de 1 mes | Miércoles 13 mayo | [ ]    |
 

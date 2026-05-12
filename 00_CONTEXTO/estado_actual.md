@@ -1,6 +1,6 @@
 # Estado Actual — Semana 2 / Mayo 2026
 
-> Última actualización: 2026-05-10 (Cierre acumulado 8-9 may) | Próxima revisión: 2026-05-11
+> Última actualización: 2026-05-11 (Cierre Diario) | Próxima revisión: 2026-05-12
 
 ---
 
@@ -9,17 +9,19 @@
 | 2026-05-06 | Cierre diario: TFM 2.4 enviado; Llamadas AISOS al 100% completadas (padrón cerrado); 2 ideas de onboarding para WALA; priorización de AISOS para liquidez. |
 | 2026-05-07 | Cierre diario: 3/3 to-dos completados. Presentación WALA realizada (ofrecido 1 mes gratis a Jordan Corrales de Milton's Cevichería para contenido/onboarding). Carpeta de herramientas coordinada. |
 | 2026-05-09 | Cierre acumulado (8-9 may): Procesada ingesta sobre comunicación persuasiva y reputación; destilado conceptual [[transparencia_radical_como_activo_de_reputacion]]. Definición de flujos de conocimiento. Tareas AISOS/TFM reprogramadas. |
+| 2026-05-10 | Sync en caliente: WALA Onboarding refactorizado y MicroApps validadas [TOP 1 y 2 OK]. Re-planificación GIZ/AISOS/TFM ejecutada y distribuida en to-dos activos. |
+| 2026-05-11 | Cierre diario: 0/3 to-dos completados (frentes GIZ y AISOS se mueven al 12 de mayo). Sin ideas capturadas. |
 
 ## 🔴 FRENTES ACTIVOS CON FECHA LÍMITE
 
 | Proyecto | Acción concreta                                                                                       | Fecha límite | Estado |
 | -------- | ----------------------------------------------------------------------------------------------------- | ------------ | ------ |
-| WALA     | Refactorizar/estandarizar Business Onboarding y perfiles de negocio (Desarrollo activo)               | 10 mayo      | [>]    |
+| WALA     | Refactorizar/estandarizar Business Onboarding y perfiles de negocio (Desarrollo activo)               | 10 mayo      | [x]    |
 | AISOS    | Analizar documentación Aldeas (guía facilitador, ppt), preparar sesión y depurar WhatsApp             | 11 mayo      | [ ]    |
-| TFM      | Redactar y enviar capítulo 2.5 de la tesis a Tatiana Manrique                                         | 11 mayo      | [ ]    |
+| TFM      | Limpiar output notebook, redactar y enviar capítulo 2 completo a Tatiana Manrique                     | 12 mayo      | [ ]    |
 | WALA     | Preparar propuesta formal para mesa de partes de JLO                                                  | 12 mayo      | [ ]    |
 | WALA     | Reunión de seguimiento con Jordan Corrales ("Milton's Cevichería") para iniciar 1 mes gratis          | 13 mayo      | [ ]    |
-| GIZ      | Leer bases de la convocatoria, revisar contexto y extraer requisitos técnicos para propuesta          | Por definir  | [ ]    |
+| GIZ      | Setear archivos TDR y estructurar borrador de planificación de la propuesta técnica                   | 11 mayo      | [ ]    |
 
 ---
 
@@ -80,6 +82,8 @@
 
 | Fecha      | Qué cambió                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------------- |
+| 2026-05-11 | Cierre Diario: Arrastre de frentes GIZ/AISOS al 12 de mayo. 0/3 completados.                                       |
+| 2026-05-10 | Sync en caliente: Validado desarrollo WALA (onboarding/perfiles) y replanificación TFM/AISOS/GIZ.             |
 | 2026-05-10 | Cierre acumulado 8-9 may. Actualización de foco técnico en WALA (desarrollo de onboarding y perfiles).         |
 | 2026-05-07 | Presentación WALA realizada (Milton's Cevichería). Carpeta herramientas AISOS coordinada.                      |
 | 2026-05-02 | Actualizado con prioridades del diario 2026-05-02: TFM, WALA e AISOS                                           |

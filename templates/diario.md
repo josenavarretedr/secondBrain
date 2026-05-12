@@ -10,21 +10,17 @@
  
 ## ⚡ TOP 3 acciones
  
-| #   | Proyecto | Acción | Estado |
-| --- | -------- | ------ | ------ |
-| 1   |          |        | [ ]    |
-| 2   |          |        | [ ]    |
-| 3   |          |        | [ ]    |
+| #   | Proyecto | Acción | Bloque Calendar | Estado |
+| --- | -------- | ------ | --------------- | ------ |
+| 1   |          |        |                 | [ ]    |
+| 2   |          |        |                 | [ ]    |
+| 3   |          |        |                 | [ ]    |
  
 ## 🧹 Sandbox / Micro-pendientes (Bajo Foco)
 
 - [ ] 
 - [ ] 
 
-## 📚 Hábito de Lectura
-
-> 🚨 **Recordatorio:** Verifica el [[03_CONOCIMIENTO/control_lectura.md|Panel de Lectura]].
-- [ ] Aún no has leído hoy según el control de lectura.
 
 ## 📞 Reuniones / Interacciones
  
@@ -59,8 +55,27 @@
  
 [[01_PROYECTOS/AISOS/to-dos_activos|AISOS To-dos]] [[01_PROYECTOS/WALA/to-dos_activos|WALA To-dos]] [[01_PROYECTOS/TFM/to-dos_activos|TFM To-dos]] [[01_PROYECTOS/GIZ/to-dos_activos|GIZ To-dos]]
  
-## 🌙 Cierre
- 
-- Pendiente mañana:
-- Aprendizaje del día:
-- Energía: [ ] Alta [ ] Media [ ] Baja
+## 🌙 Cierre de Alto Rendimiento
+
+### 🥇 Victorias Base
+- [ ] Tender la cama (Primera victoria del día)
+- [ ] Lectura (Mínimo 20 mins) — Verifica el [[03_CONOCIMIENTO/control_lectura.md|Panel de Lectura]].
+
+### 🔋 Biología y Físico
+- [ ] Creatina (5g)
+- Hidratación: [ ] Litros
+- Calistenia: [ ] Dominadas | [ ] Planchas | [ ] Fondos
+- [ ] Sesión de Fuerza (Gimnasio)
+- [ ] Exposición al sol / Movimiento activo
+
+### 🧠 Foco y Disciplina Mental
+- [ ] Deep Work: Al menos 1 bloque de 90 mins sin interrupciones
+- [ ] Tiempo de Pantalla controlado (Sin redes en la cama)
+
+### 📚 Aprendizaje (SGCA)
+- Concepto Revisado Hoy: 
+- Aplicación real: 
+
+### 🗓️ Cierre Operativo
+- [ ] ¿Prioridades de mañana bloqueadas en Google Calendar?
+

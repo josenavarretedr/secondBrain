@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "audio_source": "grabacion_20260510_2302.webm",
+    "transcripcion_source": "transcripcion_20260510_2302.md",
+    "modo_analisis": "cita_literal",
+    "fecha_generacion": "2026-05-11T07:27:00.331Z",
+    "total_escenas": 8,
+    "estado": "borrador",
+    "titulo_sugerido": "Meditaciones de Marco Aurelio: Guía para el Autodominio"
+  },
+  "escenas": [
+    {
+      "escena": 1,
+      "fragmento_audio": "Era preciso controlar mi carácter y vigilarme muy atentamente. Al leer con el mayor detenimiento y no contentarme con considerar las cosas de un modo insuficiente y sumario.",
+      "frase_impacto": "controlar mi carácter y vigilarme muy atentamente.",
+      "visual_prompt": "A realistic 35-year-old man, smart casual attire, expressive eyes, consistent facial features, thoughtfully looking at his own reflection in a calm body of water, symbolizing introspection and self-control. Cinematic masterpiece, ultra-realistic, highly detailed, soft natural studio lighting, elegant composition, muted earthy tones with a touch of gold, shallow depth of field, 8k resolution, professional photography, dramatic but peaceful mood, no text.",
+      "duracion_estimada_seg": 12,
+      "palabras_clave": [
+        "carácter",
+        "vigilancia",
+        "autocontrol",
+        "atención"
+      ]
+    },
+    {
+      "escena": 2,
+      "fragmento_audio": "Hablar sin vacilaciones y sin entregarme ciegamente a las manos de la suerte. El no tener otro guía que la razón en todo instante, el ser siempre dueño de mí mismo.",
+      "frase_impacto": "no tener otro guía que la razón, ser dueño de mí mismo.",
+      "visual_prompt": "A realistic 35-year-old man, smart casual attire, expressive eyes, consistent facial features, standing confidently at a crossroads, choosing a path illuminated by a single, glowing abstract symbol of reason, representing self-guidance. Cinematic masterpiece, ultra-realistic, highly detailed, soft natural studio lighting, elegant composition, muted earthy tones with a touch of gold, shallow depth of field, 8k resolution, professional photography, dramatic but peaceful mood, no text.",
+      "duracion_estimada_seg": 14,
+      "palabras_clave": [
+        "razón",
+        "guía",
+        "autonomía",
+        "dueño de sí"
+      ]
+    },
+    {
+      "escena": 3,
+      "fragmento_audio": "Dominio de sí mismo y no dejarse arrastrar por ninguna clase de impulsos, fueran cuales fuesen. La habilidad en el conocer cuándo era preciso sostener un esfuerzo y cuándo detenerse.",
+      "frase_impacto": "Dominio de sí mismo y no dejarse arrastrar por impulsos.",
+      "visual_prompt": "A realistic 35-year-old man, smart casual attire, expressive eyes, consistent facial features, meditating calmly amidst a swirling, chaotic background of vibrant, abstract impulses, remaining unmoved. Cinematic masterpiece, ultra-realistic, highly detailed, soft natural studio lighting, elegant composition, muted earthy tones with a touch of gold, shallow depth of field, 8k resolution, professional photography, dramatic but peaceful mood, no text.",
+      "duracion_estimada_seg": 14,
+      "palabras_clave": [
+        "dominio",
+        "impulsos",
+        "autocontrol",
+        "equilibrio"
+      ]
+    },
+    {
+      "escena": 4,
+      "fragmento_audio": "Piensa cuánto tiempo hace que estás dejando para otro día esas ocupaciones tan importantes y cuántas veces has desperdiciado las ocasiones que te ha ofrecido la providencia.",
+      "frase_impacto": "Piensa cuánto tiempo hace que estás dejando para otro día.",
+      "visual_prompt": "A realistic 35-year-old man, smart casual attire, expressive eyes, consistent facial features, looking at a calendar page with many crossed-out, past dates, symbolizing missed opportunities due to procrastination. Cinematic masterpiece, ultra-realistic, highly detailed, soft natural studio lighting, elegant composition, muted earthy tones with a touch of gold, shallow depth of field, 8k resolution, professional photography, dramatic but peaceful mood, no text.",
+      "duracion_estimada_seg": 15,
+      "palabras_clave": [
+        "procrastinación",
+        "tiempo",
+        "oportunidades",
+        "retraso"
+      ]
+    },
+    {
+      "escena": 5,
+      "fragmento_audio": "Es una locura trabajar toda la vida si nuestra imaginación y nuestros esfuerzos no tienden hacia un objeto determinado.",
+      "frase_impacto": "trabajar toda la vida si esfuerzos no tienden hacia un objeto determinado.",
+      "visual_prompt": "A realistic 35-year-old man, smart casual attire, expressive eyes, consistent facial features, standing at the base of a winding, endless staircase, looking lost without a clear destination at the top. Cinematic masterpiece, ultra-realistic, highly detailed, soft natural studio lighting, elegant composition, muted earthy tones with a touch of gold, shallow depth of field, 8k resolution, professional photography, dramatic but peaceful mood, no text.",
+      "duracion_estimada_seg": 10,
+      "palabras_clave": [
+        "propósito",
+        "esfuerzo",
+        "objetivo",
+        "sentido"
+      ]
+    },
+    {
+      "escena": 6,
+      "fragmento_audio": "¿Cuál es la naturaleza del universo y cuál es la mía? ¿Qué relación existe entre esta y aquella? ¿Qué parte del universo soy y qué es este? Convéncete de que nadie puede impedirte obrar y hablar de acuerdo con la naturaleza de la cual formas parte. Obra, habla y piensa siempre como si estuvieras a punto de salir de esta vida.",
+      "frase_impacto": "como si estuvieras a punto de salir de esta vida.",
+      "visual_prompt": "A realistic 35-year-old man, smart casual attire, expressive eyes, consistent facial features, standing on a threshold, bathed in a soft, ethereal light, looking back with a sense of peace and accomplishment, symbolizing a life lived fully. Cinematic masterpiece, ultra-realistic, highly detailed, soft natural studio lighting, elegant composition, muted earthy tones with a touch of gold, shallow depth of field, 8k resolution, professional photography, dramatic but peaceful mood, no text.",
+      "duracion_estimada_seg": 31,
+      "palabras_clave": [
+        "naturaleza",
+        "existencia",
+        "vida",
+        "filosofía"
+      ]
+    },
+    {
+      "escena": 7,
+      "fragmento_audio": "¡Qué rápido termina todo! En el mundo nuestros cuerpos y en el tiempo los recuerdos.",
+      "frase_impacto": "¡Qué rápido termina todo! Nuestros cuerpos y los recuerdos.",
+      "visual_prompt": "A realistic 35-year-old man, smart casual attire, expressive eyes, consistent facial features, watching a sand hourglass quickly draining, with faint, fading images of past moments appearing in the background. Cinematic masterpiece, ultra-realistic, highly detailed, soft natural studio lighting, elegant composition, muted earthy tones with a touch of gold, shallow depth of field, 8k resolution, professional photography, dramatic but peaceful mood, no text.",
+      "duracion_estimada_seg": 7,
+      "palabras_clave": [
+        "efímero",
+        "tiempo",
+        "recuerdos",
+        "final"
+      ]
+    },
+    {
+      "escena": 8,
+      "fragmento_audio": "Sin darse cuenta de que sería suficiente para su felicidad ser constante con el alma que reside en sí mismo y si le consagrara sincera devoción.",
+      "frase_impacto": "ser constante con el alma que reside en sí mismo.",
+      "visual_prompt": "A realistic 35-year-old man, smart casual attire, expressive eyes, consistent facial features, sitting peacefully, gazing at a subtle, warm glow emanating from his own chest, symbolizing inner wisdom and soul connection. Cinematic masterpiece, ultra-realistic, highly detailed, soft natural studio lighting, elegant composition, muted earthy tones with a touch of gold, shallow depth of field, 8k resolution, professional photography, dramatic but peaceful mood, no text.",
+      "duracion_estimada_seg": 12,
+      "palabras_clave": [
+        "felicidad",
+        "alma",
+        "constancia",
+        "devoción",
+        "interior"
+      ]
+    }
+  ]
+}

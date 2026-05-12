@@ -4,6 +4,8 @@
 
 | Acción                                                                   | Fecha       | Estado |
 | ------------------------------------------------------------------------ | ----------- | ------ |
+| Setear archivos TDR para gestionar documentación de la propuesta         | Lunes 11 mayo | [ ]    |
+| Planificación de la propuesta (mañana): enfoque en proceso emprendedor   | Lunes 11 mayo | [ ]    |
 | Leer y analizar bases de la convocatoria punto por punto                  | Por definir | [ ]    |
 | Extraer requerimientos técnicos y requisitos habilitantes                 | Por definir | [ ]    |
 | Diseñar borrador de Propuesta Técnica (Metodología, cronograma)           | Por definir | [ ]    |

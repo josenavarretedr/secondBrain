@@ -218,6 +218,8 @@ PROCESO:
    - TÉCNICO → enlace directo a repositorio o doc aplicable
 5. Mapear SOLO a nodos NEWCOOP donde el concepto encaje 
    genuinamente (WALA, AISOS, TFM, SOMU). No forzar los 4.
+6. **Activar Red Neuronal:** Escanear archivos en `03_CONOCIMIENTO/aprendizajes/`, identificar hasta 2 conceptos previos que tengan alguna relación temática o complementaria, y redactar una línea explicando cómo se conectan.
+
 
 RESTRICCIONES:
 - NO generalizar. Mencionar entidades reales del ecosistema.
@@ -246,3 +248,6 @@ aplicado_en: []
 ### 💡 Escenario A: Negocio Inicial
 ### 🚀 Escenario B: Negocio Consolidado
 ## 🛠️ Aplicación en Ecosistema NEWCOOP
+## 🔗 Red Neuronal (Conexiones)
+- [[Concepto Previo]]: Explicación breve del nexo conceptual.
+

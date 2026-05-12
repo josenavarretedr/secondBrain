@@ -16,6 +16,9 @@
 | Depurar grupos de WhatsApp y cerrar cartera con 15 participantes comprometidos                                                       | Viernes 8 mayo   | [ ]    |
 | Actualizar lista preliminar con documentos de identidad o carnet de extranjería (soporte ASOVENCHIC)                                 | Viernes 8 mayo   | [ ]    |
 | Analizar toda la documentación enviada por Aldeas (guía de facilitador en anexos, diapositivas ppt) en la mañana                      | Viernes 8 mayo   | [ ]    |
+| Confirmar que las 15 personas completaron la prueba de entrada                                                                       | Lunes 11 mayo    | [ ]    |
+| Gestionar (llamada o WhatsApp) el envío de datos perfil para la Herramienta 5 - Lista de participantes                               | Lunes 11 mayo    | [ ]    |
+| Preguntar a Juan Diego sobre la fecha para la transferencia metodológica del programa de empleabilidad                              | Lunes 11 mayo    | [ ]    |
 
 ---
 
