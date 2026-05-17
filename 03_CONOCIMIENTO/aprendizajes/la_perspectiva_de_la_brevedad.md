@@ -2,10 +2,10 @@
 tags: [concepto, Personal, brief_pendiente]
 origen: "[[ingesta_meditaciones_marco_aurelio_20260510]]"
 estado: Destilado
-proxima_revision: 2026-05-13
-intervalo_dias: 3
-veces_revisado: 0
-aplicado_en: []
+proxima_revision: 2026-05-23
+intervalo_dias: 7
+veces_revisado: 1
+aplicado_en: ["2026-05-16: Cierre retroactivo. Enfoque en la impermanencia de las tensiones semanales y la importancia de la desconexión deportiva durante el fin de semana."]
 ---
 
 # La Perspectiva de la Brevedad (Memento Mori)

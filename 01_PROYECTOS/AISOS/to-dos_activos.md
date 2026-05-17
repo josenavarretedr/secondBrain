@@ -19,6 +19,8 @@
 | Confirmar que las 15 personas completaron la prueba de entrada                                                                       | Lunes 11 mayo    | [ ]    |
 | Gestionar (llamada o WhatsApp) el envío de datos perfil para la Herramienta 5 - Lista de participantes                               | Lunes 11 mayo    | [ ]    |
 | Preguntar a Juan Diego sobre la fecha para la transferencia metodológica del programa de empleabilidad                              | Lunes 11 mayo    | [ ]    |
+| Setear y bloquear fechas de capacitaciones en el calendario de Google                                                                | Esta semana      | [ ]    |
+
 
 ---
 

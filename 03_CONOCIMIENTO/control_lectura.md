@@ -4,7 +4,7 @@
 
 | Libro | Autor | Progreso (Última Ingesta) | Enlace a Ingestas |
 | ----- | ----- | ------------------------- | ----------------- |
-| Meditaciones | Marco Aurelio | 2026-05-10 | [[ingesta_meditaciones_marco_aurelio_20260510]], [[ingesta_meditaciones_marco_aurelio_20260510_v2]] |
+| Meditaciones | Marco Aurelio | 2026-05-12 | [[ingesta_meditaciones_marco_aurelio_20260510]], [[ingesta_meditaciones_marco_aurelio_20260510_v2]], [[ingesta_meditaciones_marco_aurelio_20260512]] |
 
 ## 🏁 Terminados
 

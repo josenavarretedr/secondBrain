@@ -26,3 +26,5 @@
 - [WALA] Evaluar gift físico para usuarios premium (tarjeta / lapicero) — estimar costo y propuesta de valor.
 - [WALA] Crear cuaderno de trabajo para diagnóstico grupal en la sesión municipal
 - [WALA] Evaluar alquiler o compra de micrófonos (mediante tarjeta de crédito) para registrar y documentar contenido del onboarding de Jordan Corrales (Milton's Cevichería) y generar visibilidad en redes.
+- [WALA] Estandarizar e integrar el módulo de diagnósticos/asesorías como una MicroApp unificada y completa dentro de la app principal.
+- [WALA] Simplificar flujo de información económica: transición directa a composición de costos con slider de precios en la base para agilizar la carga de datos.

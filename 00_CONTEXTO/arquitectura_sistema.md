@@ -3,7 +3,7 @@
 | Nodo        | Tipo               | Función                      | Estado            |
 | ----------- | ------------------ | ---------------------------- | ----------------- |
 | NEWCOOP     | Empresa matriz SAC | IP, desarrollo, escalamiento | Activo            |
-| SOMU        | GovTech            | Validación institucional     | Standby           |
+| SOMU        | GovTech            | Validación institucional     | Activo            |
 | WALA        | FinTech SaaS       | Cashflow + escalabilidad     | Desarrollo activo |
 | Consultoría | Servicios          | Liquidez + networking        | Activo            |
 
@@ -16,7 +16,7 @@
 | Tesis Maestría     | Asesoría       | 🔴 Alta    | Viernes 1 mayo       |
 | WALA B2C           | Comercial      | 🟡 Media   | Esta semana          |
 | WALA Municipalidad | GovTech        | 🟡 Media   | Martes 5 mayo        |
-| SOMU               | GovTech        | 🟢 Standby | Sin fecha            |
+| SOMU               | GovTech        | 🔴 Alta    | Lunes 8 junio        |
 | Contenido Redes    | Personal brand | 🟡 Media   | Continuo             |
 
 ## Regla de integración

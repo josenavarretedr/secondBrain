@@ -2,10 +2,10 @@
 tags: [concepto, Personal, brief_pendiente]
 origen: "[[ingesta_meditaciones_marco_aurelio_20260510_v2]]"
 estado: Destilado
-proxima_revision: 2026-05-13
-intervalo_dias: 3
-veces_revisado: 0
-aplicado_en: []
+proxima_revision: 2026-05-22
+intervalo_dias: 7
+veces_revisado: 1
+aplicado_en: ["2026-05-14: Lo apliqué al decidir hacer ejercicio en ese momento, aprovechando la energía del presente."]
 ---
 
 # La Soberanía del Presente

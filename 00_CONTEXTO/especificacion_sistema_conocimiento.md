@@ -154,7 +154,8 @@ proxima_revision sea igual o anterior a la fecha de hoy.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📌 Concepto: [[{nombre_archivo}]]
 🏷️ Dominio: {dominio_detectado}
-💡 En una línea: {concepto_central}
+📖 Concepto Explicado: {concepto_central}
+💡 Reflexión: {reflexion_del_autor}
 🎙️ Cita de origen: "{cita_literal}"
 
 ❓ PREGUNTA DE ACTIVACIÓN:
